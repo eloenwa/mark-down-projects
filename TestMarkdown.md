@@ -12,7 +12,7 @@ client: Resolute Labs
 # Resolute Labs - BlockChain Dashboard
 This project was developed for Resolute Labs. Resolute labs is a startup that An ecosystem that develops tools and dApps to live on top of the Coreum Blockchain, and gives it's users easy access to communicate and use the said Blockchain. Our role as designers on the project was to design a dashboard for Resolute Labs's new service(nft) of the business
 
-![Alt text](./imageedit_1_9354338443.png)
+![Alt text](imageedit_1_9354338443.png)
 
 ## Challenges
 The main challenge was to design a dashboard that would be easy to use and understand for the users. The dashboard had to be simple and easy to use, but also had to be able to show all the information that the user needed to see. It had to incorporate the different services that Resolute Labs offers its users on the coreum blockchain such as making tokens, delegation (staking), governance,.... etc. There was a lot of information to present to the users' and we had to find a way to present it in a way that would not be overwhelming or seen as cluttered. Also, the topic of blockchain is a very complex one and we had to find a way to make it easy to understand for the users. When needed to first understand the topic ourselves before we could begin our design process.
